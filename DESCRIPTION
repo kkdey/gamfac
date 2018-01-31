@@ -1,0 +1,18 @@
+Package: gamfac
+Type: Package
+Title: Gamma Lasso Factor Analysis models - Gaussian and Logistic
+Version: 0.99.0
+Date: 2018-01-30
+Author: c(
+    person("Kushal", "Dey", email = "kkdey@uchicago.edu", role = c("aut","cre")))
+Maintainer: Kushal K. Dey <kkdey@uchicago.edu>
+Description: The package fits Gamma Lasso factor analysis models to binomial or gaussian distributed data.
+License: GPL (>= 2)
+Imports: Rcpp (>= 0.12.15), gamlr, parallel, lfa
+Suggests: knitr, ggplot2, maps, mapdata, mapplots
+URL: https://github.com/kkdey/gamfac
+License: GPL-3
+LazyData: true
+LinkingTo: Rcpp
+RoxygenNote: 6.0.1
+RoxygenNote: 6.0.1

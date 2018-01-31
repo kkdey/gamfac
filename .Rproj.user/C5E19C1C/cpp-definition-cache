@@ -1,0 +1,137 @@
+[
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/Users/kushal/Documents/lgamfac/src/fastmat.c",
+                "kind" : 6,
+                "line" : 3,
+                "name" : "mv(SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@mv"
+            },
+            {
+                "column" : 6,
+                "file" : "/Users/kushal/Documents/lgamfac/src/fastmat.c",
+                "kind" : 6,
+                "line" : 29,
+                "name" : "tmv(SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@tmv"
+            }
+        ],
+        "file" : "/Users/kushal/Documents/lgamfac/src/fastmat.c",
+        "file_last_write" : 1517326065
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 1,
+                "file" : "/Users/kushal/Documents/lgamfac/src/lfa-init.c",
+                "kind" : 6,
+                "line" : 16,
+                "name" : "R_init_lfa(DllInfo *)",
+                "parent_name" : "",
+                "usr" : "c:@F@R_init_lfa"
+            }
+        ],
+        "file" : "/Users/kushal/Documents/lgamfac/src/lfa-init.c",
+        "file_last_write" : 1517326065
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/Users/kushal/Documents/lgamfac/src/lfa.c",
+                "kind" : 6,
+                "line" : 3,
+                "name" : "lfa_threshold(SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@lfa_threshold"
+            },
+            {
+                "column" : 6,
+                "file" : "/Users/kushal/Documents/lgamfac/src/lfa.c",
+                "kind" : 6,
+                "line" : 50,
+                "name" : "lfa_scaling(SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@lfa_scaling"
+            },
+            {
+                "column" : 8,
+                "file" : "/Users/kushal/Documents/lgamfac/src/lfa.c",
+                "kind" : 6,
+                "line" : 87,
+                "name" : "sd(double *, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@sd"
+            },
+            {
+                "column" : 8,
+                "file" : "/Users/kushal/Documents/lgamfac/src/lfa.c",
+                "kind" : 6,
+                "line" : 107,
+                "name" : "mean(double *, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@mean"
+            },
+            {
+                "column" : 6,
+                "file" : "/Users/kushal/Documents/lgamfac/src/lfa.c",
+                "kind" : 6,
+                "line" : 119,
+                "name" : "centerscale(SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@centerscale"
+            },
+            {
+                "column" : 6,
+                "file" : "/Users/kushal/Documents/lgamfac/src/lfa.c",
+                "kind" : 6,
+                "line" : 155,
+                "name" : "center(SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@center"
+            }
+        ],
+        "file" : "/Users/kushal/Documents/lgamfac/src/lfa.c",
+        "file_last_write" : 1517326065
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/Users/kushal/Documents/lgamfac/src/lfa.h",
+        "file_last_write" : 1517326065
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/Users/kushal/Documents/lgamfac/src/lreg.c",
+                "kind" : 6,
+                "line" : 5,
+                "name" : "lreg(SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@lreg"
+            }
+        ],
+        "file" : "/Users/kushal/Documents/lgamfac/src/lreg.c",
+        "file_last_write" : 1517326065
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/Users/kushal/Documents/lgamfac/src/rcpp_hello_world.cpp",
+                "kind" : 6,
+                "line" : 6,
+                "name" : "rcpp_hello_world",
+                "parent_name" : "",
+                "usr" : "c:@F@rcpp_hello_world#"
+            }
+        ],
+        "file" : "/Users/kushal/Documents/lgamfac/src/rcpp_hello_world.cpp",
+        "file_last_write" : 1517326646
+    }
+]

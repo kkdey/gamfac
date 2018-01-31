@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1517327275296.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8F357D9E",
+    "lastKnownWriteTime" : 1517342578,
+    "last_content_update" : 1517342578333,
+    "path" : "~/Documents/lgamfac/test/test_lgamfac.R",
+    "project_path" : "test/test_lgamfac.R",
+    "properties" : {
+        "cursorPosition" : "160,24",
+        "scrollLine" : "141",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

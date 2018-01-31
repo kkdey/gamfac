@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1517328399973.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "905875305",
+    "id" : "3C10C85F",
+    "lastKnownWriteTime" : 1517326065,
+    "last_content_update" : 1517326065,
+    "path" : "~/Documents/lgamfac/R/svd.R",
+    "project_path" : "R/svd.R",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

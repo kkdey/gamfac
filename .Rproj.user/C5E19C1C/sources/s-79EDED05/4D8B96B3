@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1517328271125.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4D8B96B3",
+    "lastKnownWriteTime" : 1517326065,
+    "last_content_update" : 1517326065,
+    "path" : "~/Documents/lgamfac/R/lfa.R",
+    "project_path" : "R/lfa.R",
+    "properties" : {
+        "cursorPosition" : "50,16",
+        "scrollLine" : "38"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

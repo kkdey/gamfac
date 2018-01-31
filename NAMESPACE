@@ -1,0 +1,3 @@
+useDynLib(lgamfac, .registration=TRUE)
+exportPattern("^[[:alpha:]]+")
+importFrom(Rcpp, evalCpp)
